@@ -10,7 +10,7 @@ const productList={
         },
         {
             title:'Chair',
-            imgUrl:"https://www.ulcdn.net/images/products/45465/product/contour_chair_and_ottoman_replica_patchwork_replace_LP.jpg?1569471148",
+            imgUrl:"https://www.happybeds.co.uk/media/catalog/category/Sloane_Roomset_1.jpg",
             price:5000,
             decription:"ART LOOK"
         },
