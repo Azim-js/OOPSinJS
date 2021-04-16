@@ -14,6 +14,8 @@ const productList={
             price:5000,
             decription:"ART LOOK"
         },
+
+        // adding one more object
         {
             title:'Recliner',
             imgUrl:"https://www.royaloakindia.com/uploads/ROYIND-royaloak-bently-recliner-1s-0125.webp",
