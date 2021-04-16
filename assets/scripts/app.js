@@ -1,7 +1,17 @@
+// class creation
+class Product{
+    title="Default";
+    imgUrl;
+    description;
+}
 
+//object acsess by new keyword
+
+console.log(new Product());
 
 const productList={
     products:[
+        // new Product();
         {
             title:'Pillow',
             imgUrl:"https://secure.img1-fg.wfcdn.com/im/06073366/compr-r85/1145/114540090/interlude-luxurious-square-cotton-pillow-cover-and-insert.jpg",
