@@ -14,6 +14,12 @@ const productList={
             price:5000,
             decription:"ART LOOK"
         },
+        {
+            title:'Recliner',
+            imgUrl:"https://www.royaloakindia.com/uploads/ROYIND-royaloak-bently-recliner-1s-0125.webp",
+            price:4000,
+            description:'SOFT AND NICE'
+        }
     
     ],
     render(){
