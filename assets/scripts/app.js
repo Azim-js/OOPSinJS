@@ -1,9 +1,9 @@
 // class creation
 class Product{
-    title="Default";
-    imgUrl;
-    description;
-    price;
+    // title="Default";
+    // imgUrl;
+    // description;
+    // price;
 
     //adding a method a default constructor
 
@@ -96,4 +96,4 @@ const productList={
 
 };
 
-productList.render()
+productList.render();
