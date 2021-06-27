@@ -41,6 +41,12 @@ const productList={
             4000,
             'SOFT AND NICE'
         ),
+        new Product(
+            'Table',
+            "https://images.custommade.com/VYwO6zsw1GyxVoQjL-HKQGeuVSU=/custommade-photosets/50a42c24c588a71_img_0974.JPG",
+            8000,
+            'Classy'
+        )
 
 
 
@@ -82,7 +88,7 @@ const productList={
                 <div class="product-item__content">
                     <h2>${prod.title}</h2>
                     <h3>RS ${prod.price}</h3>
-                    <p>${prod.decription}</p>
+                    <p>${prod.description}</p>
                     <button>Add to Cart </button>
                 </div>     
             </div>
